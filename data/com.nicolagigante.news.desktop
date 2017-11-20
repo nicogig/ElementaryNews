@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=News
+Comment=More of what matters.
+Exec=news
+Icon=applications-interfacedesign
+Type=Application
+NoDisplay=false
