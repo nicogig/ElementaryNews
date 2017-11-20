@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nicolagigante/Projects/news/build/src/News.c
+glib.h
+-
+glib-object.h
+-
+granite.h
+-
+gio/gio.h
+-
+gtk/gtk.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/nicolagigante/Projects/news/build/src/Views/MainView.c
+glib.h
+-
+glib-object.h
+-
+gtk/gtk.h
+-
+granite.h
+-
+

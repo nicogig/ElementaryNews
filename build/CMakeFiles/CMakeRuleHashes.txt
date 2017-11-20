@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+ad7f7954dd5d1a1478bc67e553565d88 com.nicolagigante.news_valac.stamp
+dad5f270a57b4e3335058923941a1544 src/News.c

@@ -1,0 +1,7 @@
+/home/nicolagigante/Projects/news/build/CMakeFiles/install.dir
+/home/nicolagigante/Projects/news/build/CMakeFiles/list_install_components.dir
+/home/nicolagigante/Projects/news/build/CMakeFiles/rebuild_cache.dir
+/home/nicolagigante/Projects/news/build/CMakeFiles/com.nicolagigante.news.dir
+/home/nicolagigante/Projects/news/build/CMakeFiles/install/local.dir
+/home/nicolagigante/Projects/news/build/CMakeFiles/install/strip.dir
+/home/nicolagigante/Projects/news/build/CMakeFiles/edit_cache.dir
